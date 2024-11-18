@@ -1,12 +1,12 @@
 {
-  "name": "Queen_Anju",
+  "name": "Eagle_Bot_YK",
   "version": "2.5",
-  "description": "A Simple WhatsApp bot created By King-Rashmika",
-  "main": "queen.js",
+  "description": "A Simple WhatsApp bot created By LeCoeurPirate🏴‍☠️",
+  "main": "eagle.js",
   "scripts": {
-    "start": "pm2 start queen.js --deep-monitoring --attach --name Queen_Anju",
-    "stop": "pm2 stop Queen_Anju",
-    "restart": "pm2 restart Queen_Anju"
+    "start": "pm2 start eagle.js --deep-monitoring --attach --name Eagle_BOT_YK",
+    "stop": "pm2 stop Eagle_BOT",
+    "restart": "pm2 restart Eagle_BOT"
   },
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
