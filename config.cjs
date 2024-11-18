@@ -1,5 +1,5 @@
 module.exports = {
-  "ALIVE_IMG": "https://raw.githubusercontent.com/Niko-AND-Janiya/ANJU-DATA/refs/heads/main/WhatsApp%20Image%202024-09-08%20at%209.00.17%20PM.jpeg",
+  "ALIVE_IMG": "https://files.catbox.moe/8kxui5.jpg",
   "PREFIX": ".",
   "AUTO_READ_STATUS": true,
   "MODE": "private",
@@ -17,7 +17,7 @@ module.exports = {
   "ALLWAYS_ONLINE": true,
   "MOROCCO_BLOCK": true,
   "BTN_MSG": false,
-  "OWNER_NAME": "MR JANIYA",
+  "OWNER_NAME": "YOUSSOUF YK",
   "NEWS_JID": "1234567890@s.whatsapp.net",
   "AUTO_TYPING": false,
   "AUTO_RECORDING": true,
