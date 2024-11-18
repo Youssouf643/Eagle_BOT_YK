@@ -23,16 +23,16 @@
 ### Please Read !
 Eagle YK is a whatsapp bot created by LeCoeurPirate🏴‍☠️( Youssouf YK ) using baileys web api. Do not use this bot in a way that will cause trouble to others. 
 We are not responsible for any problems caused by your use of this!
-And Subscribe LeCoeurPirate and give one star for queen anju.
+And Subscribe LeCoeurPirate and give one star for eagle bot.
 </br>
-#### Give One star For Eagle_BOT_YK and [Follow Me](https://github.com/Mrrashmika) 
+#### Give One star For Eagle_BOT_YK and [Follow Me]([https://github.com/YoussoufYk]) 
 
 ## How create Eagle YK.
 
 **. Deploy steps.*
  - 1._Fork eagle bot yk repository._
     <br>
-    <a href="https://github.com/Mrrashmika/QUEEN_ANJU_MD/fork"><img title="QUEEN_ANJU-MD" src="https://img.shields.io/badge/FORK QUEEN_ANJU-h?color=black&style=for-the-badge&logo=stackshare"></a>
+    <a href="https://github.com/YoussoufYk/Eagle_BOT_YK/fork"><img title="EAGLE_BOT_YK" src="https://img.shields.io/badge/FORK EAGLE_BOT_YK-h?color=black&style=for-the-badge&logo=stackshare"></a>
  - 2._Link with yoour whatsappp using pair code._
    **Pair with WhatsApp* 
    <p align="center">
@@ -48,7 +48,7 @@ And Subscribe LeCoeurPirate and give one star for queen anju.
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Mrrashmika/QUEEN_ANJU_MD.git)
 
-***<p align="center"> • [`Tap here for Render tutorial`](https://youtu.be/aIUe2sEmd_E?si=WiL0IMrI79GJuog9) </p>***
+
 
    2..DEPLOY ON GITHUB
 
