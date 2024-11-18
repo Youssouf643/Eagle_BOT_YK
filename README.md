@@ -7,10 +7,10 @@
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=EAGLE+WHATSAPP+BOT+YK+V2" alt="">
 </p>
     <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-GAMING_RASH-red.svg?style=for-the-badge&logo=github"></a>
-<a href="#"><img title="LOGO DESIGNER" src="https://img.shields.io/badge/LOGO_DESIGNER-NIKO_PAMIYA-red.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-LeCoeurPirate-red.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="LOGO DESIGNER" src="https://img.shields.io/badge/LOGO_DESIGNER-YOUSSOUF_YK-red.svg?style=for-the-badge&logo=github"></a>
 
-<a href = ""><img alt="GAMING RASH" src="https://img.shields.io/youtube/channel/subscribers/UChrUGbOqQ6BZUAAsffJPPsw" target="_blank" /></a>
+<a href = ""><img alt="LECOEURPIRATE" src="https://img.shields.io/youtube/channel/subscribers/UChrUGbOqQ6BZUAAsffJPPsw" target="_blank" /></a>
 </p>
 <p align="center">
 <a href="https://github.com/Mrrashmika?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Mrrashmika?color=green&style=flat-square"></a>
@@ -21,16 +21,16 @@
 <a href="https://github.com/Mrrashmika/QUEEN_ANJU_MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
 
 ### Please Read !
-Queen Anju is a whatsapp bot created by Gaming rash ( Janith Rashmika ) using baileys web api. Do not use this bot in a way that will cause trouble to others. 
+Eagle YK is a whatsapp bot created by LeCoeurPirate🏴‍☠️( Youssouf YK ) using baileys web api. Do not use this bot in a way that will cause trouble to others. 
 We are not responsible for any problems caused by your use of this!
-And Subscribe GAMING RASH and give one star for queen anju.
+And Subscribe LeCoeurPirate and give one star for queen anju.
 </br>
-#### Give One star For Queen Anju and [Follow Me](https://github.com/Mrrashmika) 
+#### Give One star For Eagle_BOT_YK and [Follow Me](https://github.com/Mrrashmika) 
 
-## How create queen Anju.
+## How create Eagle YK.
 
 **. Deploy steps.*
- - 1._Fork queen Anju repository._
+ - 1._Fork eagle bot yk repository._
     <br>
     <a href="https://github.com/Mrrashmika/QUEEN_ANJU_MD/fork"><img title="QUEEN_ANJU-MD" src="https://img.shields.io/badge/FORK QUEEN_ANJU-h?color=black&style=for-the-badge&logo=stackshare"></a>
  - 2._Link with yoour whatsappp using pair code._
